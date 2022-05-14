@@ -1,5 +1,9 @@
+message = """hello to everybody
+welcome to our community
+"""
 student_count = 30.5
 is_published = True
 course_name = "python programming"
 
-print(course_name)
+#print(len(course_name))
+print(course_name[1])
