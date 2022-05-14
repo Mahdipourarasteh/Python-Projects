@@ -6,4 +6,5 @@ is_published = True
 course_name = "python programming"
 
 #print(len(course_name))
+#\"  \'  \\  \n  \t 
 print(course_name[1])
