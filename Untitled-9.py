@@ -1,4 +1,5 @@
-d= {'cat': 'cute', 'dog': 'furry'}
+d= {'cat': 'cute', 
+    'dog': 'furry'}
 print(d['cat'])
 print('cat' in d)
 d['fish'] = 'wet'
